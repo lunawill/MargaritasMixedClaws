@@ -64,4 +64,5 @@ div.work > img{
     border: 10px #2a2a2a solid;
     margin: 5px;
     width: 140px;
+    height: auto;
 }
